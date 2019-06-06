@@ -1,4 +1,4 @@
-# tapei_weather
+# taipei_weather
 
 > 臺北天氣 折線圖 Matplotlib Pyplot
 
